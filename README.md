@@ -1,3 +1,3 @@
 # Snake-Game
 
-![alt text](./images/game.png)
+![](./images/game.png)
